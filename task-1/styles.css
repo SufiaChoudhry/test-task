@@ -1,0 +1,63 @@
+.btn1 {
+    font-family: 'Gugi', cursive;
+    background-color: #ec4d50;
+    color: whitesmoke;
+    text-decoration: none;
+    margin-top: 50px;
+    padding: 15px 40px 15px 40px;
+    border: none;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+button {
+    font-size: 15px;
+    margin-right: 60px;
+    margin-top: 200px;
+}
+
+.btn2 {
+    font-family: 'Gugi', cursive;
+    padding: 15px 40px 15px 40px;
+    border-color: #2a61fb;
+    background-color: yellow;
+    color: #2a61fb;
+}
+
+.btn3 {
+    font-family: 'Gugi', cursive;
+    border-radius: 20px;
+    padding: 15px 40px 15px 40px;
+    background-image: linear-gradient(to bottom, #33ccff, #00ff00);
+    border: none;
+    margin-left: 5px;
+    color: whitesmoke;
+}
+
+.btn4 {
+    font-family: 'Gugi', cursive;
+    padding: 10px 35px 10px 35px;
+    background-color: white;
+    border-color: #6749ea;
+    border-radius: 5px;
+    color: #6749ea;
+}
+
+.btn5 {
+    font-family: 'Gugi', cursive;
+    border-radius: 5px;
+    padding: 10px 35px 10px 35px;
+    background-color: #f38e31;
+    color: whitesmoke;
+    border: none;
+}
+
+.btn6 {
+    color: #4aabf5;
+    background-color: white;
+    border-radius: 80%;
+    border-color: #4aabf5;
+    padding: 10px 35px 10px 35px;
+}
